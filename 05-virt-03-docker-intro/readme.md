@@ -76,7 +76,7 @@ https://hub.docker.com/repository/docker/miriam0010/custom-nginx/general
 
 [def screenshot9]: <Screenshot 2025-05-09 at 10.19.43 PM.png>
 
-Итоговый вариант основго compsoe.yaml:
+Итоговый вариант основного compsoe.yaml:
 
 ![Screenshot][def screenshot10]
 
